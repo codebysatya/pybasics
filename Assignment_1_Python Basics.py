@@ -48,7 +48,7 @@ Ans:'spam'+'spamspam'='spamspamspam'
     'spam'*3 = 'spamspamspam'
 # 8. Why is eggs a valid variable name while 100 is invalid?
 
-# Ans: Eggs variable is valid cause its data type is string and can be treated as variables, but whereas 100 is integer data type and integer data type can't be trated as variable.
+# Ans: Eggs variable is valid cause its data type is string and can be treated as variables, but whereas 100 is integer data type and integer data type can't be treated as variable.
 
 # 9. What three functions can be used to get the integer, floating-point number, or string version of a value?
 Ans: int() float() str() are respected functions to get the integer, floating-point number, or string version of a value.
